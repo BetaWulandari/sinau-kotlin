@@ -4,15 +4,15 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 17
-    length: 9
+  - offset: 0
+    length: 27
     placeholder_text: println()
     initial_state:
       length: 9
       offset: 17
     initialized_from_dependency: false
     possible_answer: println("Kotlin is Awesome!")
-    selected: false
+    selected: true
     status: Solved
   text: |-
     fun main() {

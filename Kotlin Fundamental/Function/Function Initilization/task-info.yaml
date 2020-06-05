@@ -18,5 +18,5 @@ files:
         println("Your name is $name")
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

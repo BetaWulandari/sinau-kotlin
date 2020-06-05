@@ -21,7 +21,7 @@ files:
           val valueB = valueB
           val result = valueA + (valueB - (valueCNotNull ?: 50))
     selected: true
-    status: Failed
+    status: Solved
   text: |-
     /**
      * Untuk menyelesaikan tugas latihan, Anda tidak diperbolehkan mengubah kode yang sudah ada.
@@ -54,5 +54,5 @@ files:
     ResultA is 54
     ResultB is 103
   learner_created: false
-status: Failed
+status: Solved
 record: -1

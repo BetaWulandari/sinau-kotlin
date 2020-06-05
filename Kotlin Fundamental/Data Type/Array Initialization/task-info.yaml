@@ -10,5 +10,5 @@ files:
         print(intArray[2])
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

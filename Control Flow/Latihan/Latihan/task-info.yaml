@@ -12,7 +12,7 @@ files:
     initialized_from_dependency: false
     possible_answer: if (number % 2 == 0) continue
     selected: true
-    status: Failed
+    status: Solved
   - offset: 338
     length: 22
     placeholder_text: if (false) continue
@@ -22,7 +22,7 @@ files:
     initialized_from_dependency: false
     possible_answer: if (number > 20) break
     selected: true
-    status: Failed
+    status: Solved
   - offset: 388
     length: 35
     placeholder_text: val result =0
@@ -32,7 +32,7 @@ files:
     initialized_from_dependency: false
     possible_answer: val result = number * (number + 10)
     selected: true
-    status: Failed
+    status: Solved
   text: |-
     /**
      * Untuk menyelesaikan tugas latihan, Anda tidak diperbolehkan mengubah kode yang sudah ada.
@@ -67,5 +67,5 @@ files:
     range result is 299
     range result is 375
   learner_created: false
-status: Failed
+status: Solved
 record: -1

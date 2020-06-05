@@ -16,5 +16,5 @@ files:
         print(line)
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
