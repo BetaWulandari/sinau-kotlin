@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 542
-    length: 194
+    length: 135
     placeholder_text: val result = 0
     initial_state:
       length: 14

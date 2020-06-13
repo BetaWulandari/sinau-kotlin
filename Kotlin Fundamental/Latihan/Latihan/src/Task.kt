@@ -27,7 +27,6 @@ fun calculateResult(valueA: Int, valueB: Int, valueC: Int?): Int {
 
     val valueA = valueA
     val valueB = valueB
-    val result = valueA + (valueB - (valueCNotNull ?: 50))
 
-    return result
+    return valueA + (valueB - valueCNotNull)
 }

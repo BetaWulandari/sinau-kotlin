@@ -1,6 +1,3 @@
-import kotlin.reflect.KMutableProperty
-import kotlin.reflect.KProperty
-
 /**
  * Untuk menyelesaikan tugas latihan, Anda tidak diperbolehkan mengubah kode yang sudah ada.
  * Cukup tambahkan kode berdasarkan perintah yang sudah ditentukan.

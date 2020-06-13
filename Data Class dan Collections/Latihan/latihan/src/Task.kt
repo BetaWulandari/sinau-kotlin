@@ -6,7 +6,7 @@
 fun main() {
 
     // TODO 1
-    val vehicle = mapOf<String, String>()
+    mapOf<String, String>()
 
     // TODO 2
     val type = "Motorcycle"

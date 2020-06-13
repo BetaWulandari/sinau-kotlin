@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 714
+  - offset: 642
     length: 29
     placeholder_text: val gippy = Cat("")
     initial_state:
